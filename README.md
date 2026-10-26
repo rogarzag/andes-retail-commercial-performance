@@ -21,20 +21,11 @@ Two complementary dashboards were developed:
 - **Dashboard - Overview:** executive view of KPIs, monthly trends, customer segments, and product categories.
 - **Dashboard - Detail:** deeper analysis of geographic, seasonal, and product performance, including order-level detail.
 
-## Decision Brief
+## Executive Summary
 
-**Decision supported:** identify which components of the 2025 commercial decline should be investigated before changing category, campaign, or inventory priorities.
+Revenue declined **6.8% in 2025**, alongside fewer orders and a lower average order value. At the same time, **Home moved from the lowest-revenue category to the highest**.
 
-Revenue fell 6.8% while orders fell 3.9% and Average Order Value declined from 1,122.90 to 1,089.23 (approximately 3.0%). Both fewer orders and a lower average order value contributed to the revenue decrease; the dashboard does not establish their underlying causes.
-
-| Evidence from the analysis | Business implication | Recommended action | How to evaluate the next step |
-|---|---|---|---|
-| Revenue, margin amount, orders, and average order value declined in 2025. | Recovery requires examining both transaction volume and value. A lower margin amount alone does not show that the margin rate deteriorated. | Break down the changes by category, country, and segment; review pricing, discounts, and product mix where data are available. | Track orders, average order value, revenue, and margin rate versus comparable periods. |
-| Home moved from the lowest-revenue category in 2024 to the highest in 2025. | A change in rank may reflect Home's performance, declines elsewhere, or both. | Compare absolute category changes, order counts, average order value, and margin before shifting inventory or promotion budgets. | Monitor category revenue change, revenue share, margin rate, and orders. |
-| Economy generated the lowest revenue and margin amount. | A smaller total does not establish lower customer value or efficiency. | Compare segment size, orders per customer, average order value, and margin rate before changing targeting. | Evaluate per-customer metrics and margin rate where the required data exist. |
-| Summer revenue exceeded Winter revenue by more than three times; June–August were weaker months. | Calendar labels and geographic context need to be reconciled before seasonal planning. | Verify how Season is defined by country and compare equal periods before testing campaign timing or inventory adjustments. | Monitor revenue and orders by month and country, using a documented season definition. |
-
-**Suggested priority:** investigate order volume and average order value first, then validate category changes and seasonal definitions. Proposed actions have not been implemented or evaluated for business impact.
+The immediate priority is to understand where order volume and purchase value weakened, and how the change in category performance relates to the overall decline.
 
 ## 📈 Dashboard - Overview
 
@@ -65,15 +56,23 @@ Across both years, Andes Retail Group generated **5.53M in revenue, 1.94M in mar
 - All product categories reached their highest revenue during Summer.
 - Monthly performance was weaker between **June and August**, followed by a rebound toward year-end.
 
-## Interpretation & Limitations
+## Recommendations Based on the Findings
 
-- Findings describe the available 2024–2025 data; they do not establish what caused the decline.
-- Margin is the monetary difference between revenue and cost in the workbook. It should be distinguished from margin rate and net profit.
-- Category rankings and segment totals should be interpreted alongside their absolute changes, customer counts, and transaction mix.
-- The dataset's Season labels should be checked against country and month before using them for planning. Summer should not automatically be equated with June–August.
-- Two years of observations are insufficient to establish a stable long-term seasonal forecast.
-- Monetary values use the source dataset's units; currency denomination is not established in this README.
-- Recommendations are proposed next steps, not measured improvements.
+| Finding | Business meaning | Recommendation |
+|---|---|---|
+| Revenue fell 6.8%, orders fell 3.9%, and average order value decreased. | The decline involves both fewer purchases and lower spending per order. | Review orders and average order value by category and customer segment to identify where the decline is concentrated. |
+| Home moved from the lowest-revenue category to the highest. | The relative contribution of product categories changed. | Compare Home's results with the other categories before changing commercial priorities; a higher rank alone does not prove growth. |
+| Economy generates the lowest revenue and margin amount. | It contributes less in total than the other segments. | Review its order volume and average order value before deciding how much commercial attention it needs. |
+| Revenue is weaker in June–August and rebounds toward year-end. | The observed sales pattern can help organize commercial follow-up. | Review lower-activity months and use the year-end rebound as a reference for planning. |
+| Peru has the highest revenue among the countries analyzed. | It is the largest market by revenue in this dataset. | Monitor its performance alongside the other countries when reviewing geographic sales priorities. |
+
+**Main takeaway:** investigate the decline through orders and average order value, then review category and monthly performance to guide commercial priorities.
+
+## Scope of the Results
+
+- Recommendations are proposed next steps; their business impact was not measured.
+- Margin is a monetary amount, not a percentage or net profit. Lower segment totals do not by themselves establish lower customer value.
+- Monthly results and the dataset's Season labels are separate views; Summer is not assumed to mean June–August. The observed patterns do not establish the causes of the decline.
 
 ## 🛠 Tools
 
