@@ -1,7 +1,7 @@
 # Andes Retail Commercial Performance 2024–2025
 
 **Author:** Rodrigo Garza García  
-**Role:** Strategy & Public Affairs | Business Analysis & Data Analytics  
+**Role:** Public & International Affairs | Business Analysis & Data Analytics  
 **Portfolio:** [GitHub Profile](https://github.com/rogarzag)
 
 Commercial performance analysis and interactive Tableau dashboard for **Andes Retail Group**, covering revenue, margin, orders, customer segments, product categories, geography, and seasonality across 2024–2025.
@@ -20,6 +20,21 @@ Two complementary dashboards were developed:
 
 - **Dashboard - Overview:** executive view of KPIs, monthly trends, customer segments, and product categories.
 - **Dashboard - Detail:** deeper analysis of geographic, seasonal, and product performance, including order-level detail.
+
+## Decision Brief
+
+**Decision supported:** identify which components of the 2025 commercial decline should be investigated before changing category, campaign, or inventory priorities.
+
+Revenue fell 6.8% while orders fell 3.9% and Average Order Value declined from 1,122.90 to 1,089.23 (approximately 3.0%). Both fewer orders and a lower average order value contributed to the revenue decrease; the dashboard does not establish their underlying causes.
+
+| Evidence from the analysis | Business implication | Recommended action | How to evaluate the next step |
+|---|---|---|---|
+| Revenue, margin amount, orders, and average order value declined in 2025. | Recovery requires examining both transaction volume and value. A lower margin amount alone does not show that the margin rate deteriorated. | Break down the changes by category, country, and segment; review pricing, discounts, and product mix where data are available. | Track orders, average order value, revenue, and margin rate versus comparable periods. |
+| Home moved from the lowest-revenue category in 2024 to the highest in 2025. | A change in rank may reflect Home's performance, declines elsewhere, or both. | Compare absolute category changes, order counts, average order value, and margin before shifting inventory or promotion budgets. | Monitor category revenue change, revenue share, margin rate, and orders. |
+| Economy generated the lowest revenue and margin amount. | A smaller total does not establish lower customer value or efficiency. | Compare segment size, orders per customer, average order value, and margin rate before changing targeting. | Evaluate per-customer metrics and margin rate where the required data exist. |
+| Summer revenue exceeded Winter revenue by more than three times; June–August were weaker months. | Calendar labels and geographic context need to be reconciled before seasonal planning. | Verify how Season is defined by country and compare equal periods before testing campaign timing or inventory adjustments. | Monitor revenue and orders by month and country, using a documented season definition. |
+
+**Suggested priority:** investigate order volume and average order value first, then validate category changes and seasonal definitions. Proposed actions have not been implemented or evaluated for business impact.
 
 ## 📈 Dashboard - Overview
 
@@ -50,12 +65,15 @@ Across both years, Andes Retail Group generated **5.53M in revenue, 1.94M in mar
 - All product categories reached their highest revenue during Summer.
 - Monthly performance was weaker between **June and August**, followed by a rebound toward year-end.
 
-## 📌 Recommended Next Steps
+## Interpretation & Limitations
 
-- Investigate the drivers behind Home's change in category leadership.
-- Analyze the factors associated with the June–August slowdown.
-- Identify opportunities to strengthen performance during lower-activity periods.
-- Compare category performance by region, season, order volume, and Average Order Value before drawing causal conclusions.
+- Findings describe the available 2024–2025 data; they do not establish what caused the decline.
+- Margin is the monetary difference between revenue and cost in the workbook. It should be distinguished from margin rate and net profit.
+- Category rankings and segment totals should be interpreted alongside their absolute changes, customer counts, and transaction mix.
+- The dataset's Season labels should be checked against country and month before using them for planning. Summer should not automatically be equated with June–August.
+- Two years of observations are insufficient to establish a stable long-term seasonal forecast.
+- Monetary values use the source dataset's units; currency denomination is not established in this README.
+- Recommendations are proposed next steps, not measured improvements.
 
 ## 🛠 Tools
 
