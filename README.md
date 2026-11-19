@@ -90,9 +90,9 @@ Across both years, Andes Retail Group generated **5.53M in revenue, 1.94M in mar
 - Dashboard Design
 - SCQA Business Communication
 
-## 📓 Analysis Notebook
+## Project Documentation
 
-The portfolio version of the project notebook is available in this repository:
+A Markdown-based notebook documents the Tableau dashboards, key performance results, findings, executive narrative, and recommended next steps. It is portfolio documentation, not an executable analysis notebook:
 
 [`andes_retail_commercial_performance_portfolio.ipynb`](andes_retail_commercial_performance_portfolio.ipynb)
 
