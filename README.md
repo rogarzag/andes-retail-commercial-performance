@@ -2,7 +2,7 @@
 
 **Author:** [Rodrigo Garza García](https://www.linkedin.com/in/rodrigogarzamx/)  
 **Professional focus:** Public & International Affairs · Business Analysis · Data Analytics  
-**Portfolio page:** [andes retail commercial performance](https://rogarzag.github.io/projects/andes-retail/)  
+**Portfolio page:** [Andes Retail](https://rogarzag.github.io/projects/andes-retail/)  
 **GitHub repository:** [andes-retail-commercial-performance](https://github.com/rogarzag/andes-retail-commercial-performance)  
 **Project focus:** Business Analysis · Data Analytics · Commercial Performance · KPI Dashboards · Tableau  
 **Project context:** Data Analytics portfolio project  
