@@ -1,8 +1,15 @@
 # Andes Retail Commercial Performance 2024–2025
 
-**Author:** Rodrigo Garza García  
-**Role:** Public & International Affairs | Business Analysis & Data Analytics  
-**Portfolio:** [GitHub Profile](https://github.com/rogarzag)
+**Author:** [Rodrigo Garza García](https://www.linkedin.com/in/rodrigogarzamx/)  
+**Professional focus:** Public & International Affairs · Business Analysis · Data Analytics  
+**Portfolio page:** [andes retail commercial performance](https://rogarzag.github.io/projects/andes-retail/)  
+**GitHub repository:** [andes-retail-commercial-performance](https://github.com/rogarzag/andes-retail-commercial-performance)  
+**Project focus:** Business Analysis · Data Analytics · Commercial Performance · KPI Dashboards · Tableau  
+**Project context:** Data Analytics portfolio project  
+**Data / case coverage:** 2024–2025  
+**Professional links:** [GitHub profile](https://github.com/rogarzag) · [LinkedIn](https://www.linkedin.com/in/rodrigogarzamx/) · [Professional Website](https://rogarzag.github.io/)
+
+## Project Overview
 
 Commercial performance analysis and interactive Tableau dashboard for **Andes Retail Group**, covering revenue, margin, orders, customer segments, product categories, geography, and seasonality across 2024–2025.
 
@@ -92,3 +99,7 @@ The portfolio version of the project notebook is available in this repository:
 ## 🔗 Tableau Public
 
 [Explore the interactive workbook](https://public.tableau.com/app/profile/rodrigo.garza.garc.a/viz/Andes_Retail_Commercial_Performance_2024_2025/Dashboard-Overview)
+
+## Conclusion
+
+The 6.8% revenue decline in 2025 coincided with fewer orders and a lower average order value. The next analytical step is to locate where those changes are concentrated across product categories, customer segments, countries, and months before proposing commercial interventions. The observed dashboard patterns are descriptive and do not establish the causes of the decline.
