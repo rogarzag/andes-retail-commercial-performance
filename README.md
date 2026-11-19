@@ -6,7 +6,7 @@
 **GitHub repository:** [andes-retail-commercial-performance](https://github.com/rogarzag/andes-retail-commercial-performance)  
 **Project focus:** Business Analysis · Data Analytics · Commercial Performance · KPI Dashboards · Tableau  
 **Project context:** Data Analytics portfolio project  
-**Data / case coverage:** 2024–2025  
+**Data / period covered:** 2024–2025  
 **Professional links:** [GitHub profile](https://github.com/rogarzag) · [LinkedIn](https://www.linkedin.com/in/rodrigogarzamx/) · [Professional Website](https://rogarzag.github.io/)
 
 ## Project Overview
